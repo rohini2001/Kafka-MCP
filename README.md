@@ -16,3 +16,4 @@ This project gave me a deeper understanding of how AI can be integrated into exi
 It was a great hands-on experience exploring AI-powered tooling with Spring AI and understanding how tool calling works behind the scenes.
 
 <img width="1024" height="1536" alt="Flow Dig" src="https://github.com/user-attachments/assets/aae4f08a-ab49-4095-8cbe-827ff1417609" />
+
